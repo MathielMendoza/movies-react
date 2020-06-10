@@ -8,7 +8,7 @@ export default function Footer() {
 
   return (
     <Footer className="footer">
-      <p>Agustin Navarro Galdon</p>
+      <p>Gerson Mathiel Mendoza</p>
     </Footer>
   );
 }
